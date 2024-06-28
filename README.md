@@ -1,4 +1,4 @@
-<img width="1358" alt="Screenshot 2024-06-28 at 12 35 53 PM" src="https://github.com/Tom4257644/VulcanSteel/assets/174009414/20dd5354-c1ae-4043-a31a-5e2260a8ccf3"><h1>Stock Pitch of Vulcan Steel</h1>
+<h1>Stock Pitch of Vulcan Steel</h1>
 
 
 
